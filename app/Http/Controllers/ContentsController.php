@@ -7,7 +7,6 @@ use Illuminate\Support\Facades\Input;
 
 class ContentsController extends Controller
 {
-    //
     public function home(Request $request)
     {
         $data = [];
